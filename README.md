@@ -3,7 +3,7 @@
 
 ![Scan](images/scan.png)
 
-Use:
+Usage:
 ```
 scanttl.sh <ip_address>
 ```

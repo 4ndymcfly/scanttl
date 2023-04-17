@@ -1,4 +1,4 @@
-# scanttl
+# SCANTTL
 ### Small bash script to detect the type of machine through the TTL value.
 
 Use:
@@ -13,3 +13,6 @@ Assign execute permissions before use:
 ```
 chmod +x scanttl.sh
 ```
+## Screenshot
+
+![Scan](images/scan.png)

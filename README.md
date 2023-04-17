@@ -1,6 +1,8 @@
 # SCANTTL
 ### Small bash script to detect the type of machine through the TTL value.
 
+![Scan](images/scan.png)
+
 Use:
 ```
 scanttl.sh <ip_address>
@@ -13,6 +15,5 @@ Assign execute permissions before use:
 ```
 chmod +x scanttl.sh
 ```
-## Screenshot
 
-![Scan](images/scan.png)
+
